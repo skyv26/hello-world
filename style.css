@@ -3,27 +3,27 @@
 *,
 *::after,
 *::before {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-html{
-    font-size: 62.5%;
-    height: 100%;
+html {
+  font-size: 62.5%;
+  height: 100%;
 }
 
 body {
-    width: 100%;
-    min-height: 100%;
-    text-align: center;
-    display: grid;
-    align-content: center;
-    font-family: 'Lobster', cursive;
-    background-image: linear-gradient(to right bottom, #e80687, #da34a6, #c44fc1, #a964d6, #8775e4, #6987f1, #4497f8, #00a5fb, #00b9fe, #00cbf8, #00daec, #29e8dc);
+  width: 100%;
+  min-height: 100%;
+  text-align: center;
+  display: grid;
+  align-content: center;
+  font-family: 'Lobster', cursive;
+  background-image: linear-gradient(to right bottom, #e80687, #da34a6, #c44fc1, #a964d6, #8775e4, #6987f1, #4497f8, #00a5fb, #00b9fe, #00cbf8, #00daec, #29e8dc);
 }
 
 h1 {
-    font-size: 10rem;
-    color: white;
+  font-size: 10rem;
+  color: white;
 }
